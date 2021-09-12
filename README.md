@@ -1,5 +1,3 @@
-# machine-learning
-
 # References:
 https://github.com/amueller/introduction_to_ml_with_python
 https://github.com/jakevdp/PythonDataScienceHandbook
@@ -20,29 +18,46 @@ $ pip install nbdime
 
 # Python and Jupyter notebooks
 $ jupyter notebook
+
 or
+
 $ jupyter lab
 
 import sys
+
 print("Python version:", sys.version)
 
+
 import pandas as pd
+
 print("pandas version:", pd.__version__)
 
+
 import matplotlib
+
 print("matplotlib version:", matplotlib.__version__)
 
+
 import numpy as np
+
 print("NumPy version:", np.__version__)
 
+
 import scipy as sp
+
 print("SciPy version:", sp.__version__)
 
+
 import IPython
+
 print("IPython version:", IPython.__version__)
 
+
 import sklearn
+
 print("scikit-learn version:", sklearn.__version__)
 
+
 import yellowbrick
+
 print("yellowbrick version:", yellowbrick.__version__)
