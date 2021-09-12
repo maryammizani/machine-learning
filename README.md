@@ -18,6 +18,7 @@ $ pip install mglearn(optional)
 $ pip install nbdime
 
 # Python and Jupyter notebooks
+https://realpython.com/jupyter-notebook-introduction/
 $ jupyter notebook
 or
 $ jupyter lab
